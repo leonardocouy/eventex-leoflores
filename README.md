@@ -2,6 +2,9 @@
 
 Sistemas de Eventos encomendado pela Morena
 
+[![Build Status](https://travis-ci.org/leonardocouy/eventex-leoflores.svg?branch=master)](https://travis-ci.org/leonardocouy/eventex-leoflores)
+[![Code Health](https://landscape.io/github/leonardocouy/eventex-leoflores/master/landscape.svg?style=flat)](https://landscape.io/github/leonardocouy/eventex-leoflores/master)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
