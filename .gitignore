@@ -7,3 +7,5 @@
 __pycache__
 venv
 staticfiles
+.ipynb_checkpoints
+*.ipynb
